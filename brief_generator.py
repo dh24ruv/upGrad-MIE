@@ -149,6 +149,10 @@ GLOBAL CITATION RULE — applies to EVERY field in EVERY section (financials, tr
 - Every citation must be: [Source Name](https://full-url)
 - NEVER write [Source Name, Year] or [Source, Date] anywhere in this document — not even in the financials or investors tables.
 - If you cannot find the exact URL for a financial figure, write it without a citation tag rather than using a name-only bracket.
+- Convert ALL currency values to INR Crore. Use ₹ symbol and "Cr" suffix. 
+- Conversion: $1M = ₹8.3 Cr approximately. Always state if converted.
+- Example: "$440M [Tracxn]" → "₹3,652 Cr (~$440M) [Tracxn]"
+- Never display values in USD millions or USD billions.
 """
 
 
